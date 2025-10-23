@@ -3,19 +3,18 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('user.home');
-});
-
-Route::get('/home', function () {
-    return view('user.home');
+    $title = 'PPI Kastamonu - Home Page';
+    return view('user.home', compact('title'));
 });
 
 Route::get('/about', function () {
-    return view('user.about');
+    $title = 'PPI Kastamonu - About Us';
+    return view('user.about', compact('title'));
 });
 
-Route::get('/contact', function () {
-    return view('user.contact');
+Route::get('/activity', function () {
+    $title = 'PPI Kastamonu -  Our Activities';
+    return view('user.activity', compact('title'));
 });
 
 

@@ -11,7 +11,7 @@
                     <div class="navbar-nav me-auto">
                         <a href="/" class="nav-item nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
                         <a href="/about" class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">About</a>
-                        <a href="/contact" class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
+                        <a href="/activity" class="nav-item nav-link {{ Request::is('activity') ? 'active' : '' }}">Activities</a>
                         <div class="nav-item dropdown">
                             <a href="#!" class="nav-link dropdown-toggle" id="pagesDropdown" data-bs-toggle="dropdown" aria-expanded="false">Languages</a>
                             <ul class="dropdown-menu" aria-labelledby="pagesDropdown">

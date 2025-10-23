@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Charitize - Charity Organization Website Template</title>
+    <title>{{ $title }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -30,6 +30,10 @@
 
     <!-- Template Stylesheet -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+
+    <!-- Logo -->
+    <link rel="icon" type="image/png" href="{{ asset('img/Logo ppi.png') }}">
+
 </head>
 
 <body>
@@ -54,7 +58,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="d-flex justify-content-end">
-                            <div class="flex-shrink-0 round-btn-top bg-red">
+                            <div class="shrink-0 round-btn-top bg-red">
                                 <i class="fa fa-phone-alt text-beige"></i>
                             </div>
                             <div class="ms-2" style="margin-top: 10px">

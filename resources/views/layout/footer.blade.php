@@ -31,7 +31,7 @@
                     <h6 class="text-beige">Closed</h6>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-beige mb-4">Gallery</h4>
+                    <a href="#"><h4 class="text-beige mb-4">Gallery</h4></a>
                     <div class="row g-2">
                         <div class="col-4">
                             <img class="img-fluid w-100" src="{{ asset('img/gallery-1.jpg') }}" alt="" style="border-radius: 10px">

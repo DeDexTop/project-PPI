@@ -3,6 +3,7 @@
 @section('containers')
 <div class="container-fluid py-5 bg-cream">
         <div class="container">
+            <h3 class="display-1 text-start text-red pe-3">About Us</h3>
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.2s">
                     <div class="about-img">
@@ -10,7 +11,6 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <p class="section-title text-start text-red pe-3">About Us</p>
                     <h1 class="display-6 mb-4 wow fadeIn" data-wow-delay="0.2s">Join Hands, Change the World</h1>
                     <p class="mb-4 wow fadeIn text-danger" data-wow-delay="0.3s">Every hand extended in kindness brings us closer to
                         a world free from suffering. Be part of a global movement dedicated to building a future where
@@ -50,8 +50,8 @@
                             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s" >
                                 <div class="text-center bg-red py-5 px-4 h-100" style="border-top-left-radius: 15px; background-color: #ff4c4c">
                                     <i class="fa fa-users fa-3x text-beige mb-3"></i>
-                                    <h1 class="display-5 mb-0 text-beige" data-toggle="counter-up">5</h1>
-                                    <span class="text-beige">Team Members</span>
+                                    <h1 class="display-5 mb-0 text-beige" data-toggle="counter-up">100</h1>
+                                    <span class="text-beige">Members</span>
                                 </div>
                             </div>
                             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
@@ -112,11 +112,11 @@
                             <h3>Boris Johnson</h3>
                             <span>Founder & CEO</span>
                         </div>
-                        <div class="team-social bg-light d-flex flex-column justify-content-center flex-shrink-0 p-4">
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-facebook-f text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-x-twitter text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-instagram text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-youtube text-beige"></i></a>
+                        <div class="team-social bg-beige d-flex flex-column justify-content-center shrink-0 p-4" style="border-radius: 15px">
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-facebook-f text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-x-twitter text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-instagram text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-youtube text-beige"></i></a>
                         </div>
                     </div>
                 </div>
@@ -127,11 +127,11 @@
                             <h3>Donald Pakura</h3>
                             <span>Project Manager</span>
                         </div>
-                        <div class="team-social bg-light d-flex flex-column justify-content-center flex-shrink-0 p-4">
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-facebook-f text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-x-twitter text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-instagram text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-youtube text-beige"></i></a>
+                        <div class="team-social bg-beige d-flex flex-column justify-content-center shrink-0 p-4" style="border-radius: 15px">
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-facebook-f text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-x-twitter text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-instagram text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-youtube text-beige"></i></a>
                         </div>
                     </div>
                 </div>
@@ -142,11 +142,11 @@
                             <h3>Alexander Bell</h3>
                             <span>Volunteer</span>
                         </div>
-                        <div class="team-social bg-light d-flex flex-column justify-content-center flex-shrink-0 p-4">
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-facebook-f text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-x-twitter text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-instagram text-beige"></i></a>
-                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);""><i class="fab fa-youtube text-beige"></i></a>
+                        <div class="team-social bg-beige d-flex flex-column justify-content-center shrink-0 p-4" style="border-radius: 15px">
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-facebook-f text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-x-twitter text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-instagram text-beige"></i></a>
+                            <a class="btn round-btn btn-primary my-2" href="#!" style="cursor: pointer; transform: scale(0.8);"><i class="fab fa-youtube text-beige"></i></a>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                                             scholarships, and training programs, we can help children and adults unlock
                                             their potential for a better future.</p>
                                         <div class="d-flex align-items-center">
-                                            <div class="btn-lg-square bg-light text-red flex-shrink-0" style="border-radius:10px"> 
+                                            <div class="btn-lg-square bg-light text-red shrink-0" style="border-radius:10px"> 
                                                 <i class="fa fa-quote-right fa-2x"></i>
                                             </div>
                                             <div class="ps-3">
@@ -218,7 +218,7 @@
                                             donations and volunteer work, we can spread kindness and support to
                                             children, families, and communities struggling to find stability.</p>
                                         <div class="d-flex align-items-center">
-                                            <div class="btn-lg-square bg-light text-red flex-shrink-0" style="border-radius:10px">
+                                            <div class="btn-lg-square bg-light text-red shrink-0" style="border-radius:10px">
                                                 <i class="fa fa-quote-right fa-2x"></i>
                                             </div>
                                             <div class="ps-3">
@@ -250,7 +250,7 @@
                                             from suffering. Be part of a global movement dedicated to building a future
                                             where equality and compassion thrive.</p>
                                         <div class="d-flex align-items-center">
-                                            <div class="btn-lg-square bg-light text-red flex-shrink-0" style="border-radius:10px">
+                                            <div class="btn-lg-square bg-light text-red shrink-0" style="border-radius:10px">
                                                 <i class="fa fa-quote-right fa-2x"></i>
                                             </div>
                                             <div class="ps-3">
